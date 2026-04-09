@@ -70,9 +70,6 @@ I'm learning Python and I'm very eager to learn Java and C#.</p>
 
 </div>
 
-##
-
-
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
@@ -86,6 +83,9 @@ I'm learning Python and I'm very eager to learn Java and C#.</p>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VSCode-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Notion-Light.svg">
 </div>
+
+
+##
 
 
 <div align="center">
